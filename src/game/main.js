@@ -1,3 +1,4 @@
+//https://developer.amazon.com/blogs/post/Tx1B570TUCFXJ66/Intro-To-Phaser-Part-2-Preloading-Sprites-Displaying-Text-and-Game-State
 var SPEED = 200;
 
 var state = {
